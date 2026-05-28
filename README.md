@@ -25,7 +25,10 @@ enter upi id when asked
 The program generates:
 
 phonepay_qr.png
+
 paytm_qr.png
+
 googlepay_qr.png
+
 
 Clone the repository:https://github.com/khushi-blip/QR-CODE-GENERATOR
